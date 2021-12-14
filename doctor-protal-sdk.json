@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "doctor-protal-client",
+    "private_key_id": "8555c0f626b58ac2f5baa08210183dc36761114f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCDzcZcQ+a0I8M\naNAdHYSkuNkiWGGZBtvzB/va1/5EkWH2pJ1lZmtGo22vrLTPyHvcVALgEkqFTD5N\nZszxXBrORz6DzRBT6jEWySNlbRPu5GVYod2f+SZiq3CyZ4LhglRogZ4F5e+76I9U\nXyTjqw6wpRlPnIqq+o1pq0oNDGoxkX8mkC91R2QorI5RRU+3fSbbuMahGtJACdS4\nvWSdbX8bstXv6QR2O1LvZkAHCePmE4nVmWCRtjTRiv7xqLkywP79Hd8kto7G53FL\n4I0Ye0yCVILujR6rjoEvF1Yvrqnki52u3R5OXazYq6P/gXtYGrW2V3K8IBoPsSP8\nAu9DeRMBAgMBAAECggEAAegv1Y0mwB+OJ3QwcBNg/IswjKADdxWFeaAdFZnxF9fw\nQIaHs8mfGYCEBudKsqWFZ+5/V/M+otVzWKPofg7oz0+7BjvwjfCMsoztjyLLXCes\nYjYbIuGKLAtM/0OHLLXjLVnM3pzKNmWh/fDQoIp5RPbLO0F+QGyg7LraV6IXQmq+\nYe3I8nxF8mY/4wOXYgeyFw2lk++CVJ0OaugNcs7meHScD/b6H85JMZKlwedHN7SF\n/CZSA5ypSamAmK7SETXrpJhwFkmYNUSFXrqr4LgRYfKB/W3EYEZa1X9K2CRXieSe\nAmFQH9qFscTOtGBfx1DCu6t76+c/7YSlVIuqfBVjyQKBgQDqsWuXEoND/3Dmr8Wu\nlUxuoZp3kdTwCNPPPv03iCCuVXZdiuSnmT57y2DOzkhK6uoCjDTNjMuRhpF3GbK9\nwnzm+Az3QcXGSOdLVk66HZbzLfVKgX/PXIdGTH2xQMi6HjFpjLuuc4YBfk6MIoql\nSslzqyQhKj+oReK83+4PchU+GQKBgQDTrWpgz+95MoSBIaN5ZEIl3FAEBr3jXASg\nTd+xg8C7w5IljmuARxt9tWo2l0GA2n/cRQioQXzRQrmLEEa31+CpjpA58gtlfYFC\n3twi4SHvmf42L9Vf7jGc//N6uXWMaznzy6FlZZAbRttXAehtybKZUQZ2tAPunnEg\np23+2+VJKQKBgQDZyWqd9n/5ScHrUJGRQNp8j1pYOuvvE0H6v+ka7yfkn0oH5Cvr\nmzlwh3p+bs6HNxeQ5araVB1UHhw++Yn0rdZaPzVI/bAaIO0B7EWCUJMTd0J4sVN5\nidO+WJ0LL6MVk48m84H2kR15pUwenq8qVAw9WkNcw2fvL2sI+oRfsO4lgQKBgDD7\nNttyIkrcOrcazpYfcgMKyOU1nikHOPbTLkkIYMfSCHZyT0PesGjVWt+I/ppPdTjG\nLKuqg7R0iTS5rnOKG62AlLUj4ik48nlD0pKrn8uuyZlGVkyddJOM0o16bs3wXfeh\nDhbFeqQlMEog4eTNwGsjyagcHbDQrwLMW3KW9aaJAoGAIGDlFugKAODl53T5aJwj\nroz7ZimiBjLQs5dvHG4EQYU2F25jk1vHdWLT8HPpu0vObB9dmbWtUrLmKM8LlkFO\nAONR+t/XLSgxhYYrm8nBTZgqwS8fGLzIJ79UiN5QABTd1+D4Jc30lxcnz6OBN1Hn\nU2iGbFKRbhJavB40FmSqqYM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-3rhzq@doctor-protal-client.iam.gserviceaccount.com",
+    "client_id": "108799310376378525822",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3rhzq%40doctor-protal-client.iam.gserviceaccount.com"
+  }
+  
